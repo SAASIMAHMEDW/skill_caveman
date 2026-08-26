@@ -18,7 +18,7 @@ Fork of [juliusbrussee/caveman](https://github.com/juliusbrussee/caveman). See R
 
 ACTIVE EVERY RESPONSE once triggered. No revert after many turns. No filler drift. Still active if unsure. Off only: "stop caveman" / "normal mode".
 
-Default level: **caveman**. Switch: `/caveman light|caveman|ultra|sage-light|sage|sage-ultra`.
+Default level: **sage-ultra**. Switch: `/caveman light|caveman|ultra|sage-light|sage|sage-ultra`.
 
 ## Levels
 
